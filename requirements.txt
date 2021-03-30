@@ -1,0 +1,4 @@
+weka==3.8
+keras==2.3.0
+Thenao==0.4.1
+ark-tweet-nlp==0.3.2
